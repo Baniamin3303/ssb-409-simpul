@@ -1,0 +1,90 @@
+.header{
+    text-align: center;
+    color: white;
+}
+.box1{
+background-color: blue;
+font-size: 20px;
+width: 33.3%;
+float: left;
+ 
+}
+.box2{
+background-color: brown;
+font-size: 20px;
+width: 33.3%;
+float: left;
+}
+.box3{
+background-color: chartreuse;
+font-size: 20px;
+width: 33.3%;
+float: left;
+}
+.container{
+ text-align: center;
+ color: white;
+}
+.box4{
+background-color: blueviolet;
+width:25%;
+float: left;
+font-size: 20px;
+}
+.box5{
+background-color: rgb(42, 165, 104);
+width:25%;
+float: left;
+font-size: 20px;
+}
+.box6{
+background-color: cornflowerblue;
+width:25%;
+float: left;
+font-size: 20px;
+
+}
+.box7{
+background-color: darkgoldenrod;
+width:25%;
+float: left;
+font-size: 20px;
+}
+
+.wraper{
+    width: 104.2%;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.box8{
+    width: 16%;
+background-color: darkgoldenrod;
+float: left;
+}
+.box9{
+    width: 16%;
+   background-color: brown; 
+   float: left;
+}
+.box10{
+    width: 16%;
+   background-color: blanchedalmond; 
+   float: left;
+}
+.box11{
+    width: 16%;
+    background-color: cyan;
+    float: left;
+}
+.box12{
+    width: 16%;
+    background-color: darkmagenta;
+    float: left;
+}
+.box13{
+    width: 16%;
+    background-color: rgb(204, 50, 71);
+    float: left;
+}
+
